@@ -10,4 +10,4 @@ num2 = float(input('Enter the second number:'))
 result = int(num1+num2)
 
 # here we float number => integer number
-print(result)
+print('The result is', result)
